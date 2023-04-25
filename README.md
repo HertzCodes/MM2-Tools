@@ -15,6 +15,12 @@ TOOLS EXPLANATION:
 2 Execute the script
 3 Trade is stuck on process trade. You can leave the server now. The other person loses their items and you will keep yours
 
+- INFINITE BOX OPEN
+1 Break Server
+2 Open a box.
+3 If you got the knife you wanted, click on restore server button and enjoy!
+4 If you didn't just rejoin and you will have your coins back and you can do it again until you get the item you want!
+
 3. RESTORE SERVER
 - It restores server and makes server back to normal ( after using break server )
 
